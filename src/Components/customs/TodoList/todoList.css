@@ -1,0 +1,30 @@
+::placeholder {
+    color: white !important;
+    opacity: 1;
+}
+
+:-ms-input-placeholder {
+    color: white !important;
+}
+
+::-ms-input-placeholder {
+    color: white !important;
+}
+
+.todo-btn {
+    background: rgb(103, 9, 255) !important;
+    background: linear-gradient(96deg, rgba(103, 9, 255, 1) 46%, rgba(145, 0, 247, 1) 100%) !important;
+    border-top-left-radius: 0 !important;
+    border-bottom-left-radius: 0 !important;
+    min-width: 20px !important;
+    padding: 10px !important;
+}
+
+.todo-input{
+    border-top-left-radius: 4px !important;
+    border-bottom-left-radius: 4px !important;
+}
+
+.css-k008qs{
+    height: 30px;
+}
